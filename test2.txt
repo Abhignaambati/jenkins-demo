@@ -1,2 +1,3 @@
-This is my second file
-.
+
+this is the updated file
+>>>>>>> 4a310d9 (modified one)
